@@ -13,7 +13,7 @@
 ### Languages I Know:
 - 💻 HTML/CSS
 - 💻 C++
-- 💻 DSA
+- 💻 Good at Problem Solving
 
 
 ---
