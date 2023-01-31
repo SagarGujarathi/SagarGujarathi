@@ -14,6 +14,8 @@
 - 💻 HTML/CSS
 - 💻 C++
 - 💻 Python
+- 💻 JavaScript
+- 💻 C
 - 💻 Good at Problem Solving
 
 
