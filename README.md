@@ -11,11 +11,16 @@
 <br />
 
 ### Languages I Know:
-- 💻 HTML/CSS
-- 💻 C++
-- 💻 Python
+- 💻 HTML
+- 💻 CSS
 - 💻 JavaScript
 - 💻 C
+- 💻 C++
+- 💻 Python
+- 💻 MongoDB
+- 💻 Express.js
+- 💻 React.js
+- 💻 Node.js
 - 💻 Good at Problem Solving
 
 
