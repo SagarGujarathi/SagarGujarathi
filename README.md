@@ -16,7 +16,6 @@
 - 💻 JavaScript
 - 💻 C
 - 💻 C++
-- 💻 Python
 - 💻 MongoDB
 - 💻 Express.js
 - 💻 React.js
