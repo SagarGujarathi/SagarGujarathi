@@ -10,7 +10,7 @@
 [![](https://discord.c99.nl/widget/theme-4/991230961121513492.png)](https://discord.gg/GfVWxC79Km)
 <br />
 
-### Languages I Know:
+### My Skills:
 - 💻 HTML
 - 💻 CSS
 - 💻 JavaScript
