@@ -1,8 +1,8 @@
 # 💫 About Me:
 ```diff
-:telescope: I’m currently working on Ecommerce App
-:seedling: I’m currently learning TypeScript
-:speech_balloon: Ask me about my projects
+🔭 I’m currently working on Ecommerce App
+🌳 I’m currently learning TypeScript
+📬 Ask me about my projects
 ```
 
 ## 🌐 Socials:
