@@ -1,6 +1,6 @@
 # 💫 About Me:
 ```diff
-🔭 I’m currently working on Ecommerce App
+🔭 I’m currently working on Ecommerce App and Chessify Multiplayer React App 
 🌳 I’m currently learning TypeScript
 📬 Ask me about my projects
 ```
