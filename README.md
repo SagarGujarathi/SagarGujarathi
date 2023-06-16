@@ -1,7 +1,7 @@
 # 💫 About Me:
 ```diff
 🔭 I’m currently working on Ecommerce App and Chessify Multiplayer React App 
-🌳 I’m currently learning TypeScript
+🌳 I’m currently learning React Query and Zustand
 📬 Ask me about my projects
 ```
 
