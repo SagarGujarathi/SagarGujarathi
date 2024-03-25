@@ -1,0 +1,9 @@
+{ "blogs":[
+  {
+    "title": "The AI Era",
+    "description": "The future of AI is like a thrilling rollercoaster ride. Emerging areas like explainable AI, quantum computing, and the collaborative dance between humans and AI are poised to redefine the landscape..",
+    "link": "The-AI-Era",
+    "icon": "https://i.imgur.com/KSklpdi.png"
+  }
+]
+}
