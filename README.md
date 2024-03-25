@@ -1,8 +1,10 @@
 # 💫 About Me:
 ```diff
-🔭 I’m currently working on Ecommerce App and Chessify Multiplayer React App 
-🌳 I’m currently learning React Query and Zustand
-📬 Ask me about my projects
+💀 Name: Sagar Gujarathi.
+📬 Email: sagargujarathi108@gmail.com.
+🔭 I’m currently working on Portfolio.
+🌳 I’m currently learning Spring Boot.
+📬 Ask me about my projects.
 ```
 
 ## 🌐 Socials:
